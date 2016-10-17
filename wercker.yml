@@ -4,5 +4,5 @@ build:
         - script:
             name: env
             code: |
-              echo "hello benno"
+              echo "hello benno!"
               env
