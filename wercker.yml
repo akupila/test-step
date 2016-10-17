@@ -5,4 +5,5 @@ build:
             name: env
             code: |
               echo test 1
+              echo $APP_ENV_VAR
               env
